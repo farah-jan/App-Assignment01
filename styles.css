@@ -1,0 +1,30 @@
+body{
+  background-color: white;
+  }
+h1{
+color: saddlebrown;
+background-color: #D2B48C;
+text-align: center;
+}
+img{
+margin: auto;
+display: block;
+width: 700px;
+}
+#about{
+color: white;
+background-color: black;
+margin: 20px;
+padding: 20px;
+border: 3px dotted;
+}
+#why{
+background-color: #D2B48C;
+margin: 20px;
+padding: 20px;
+border: 3px dotted;
+}
+footer{
+background-color: lightgray;
+text-align: center;
+}
